@@ -1,0 +1,8 @@
+body{
+    background-image:url(./selva_85_orig.jpg);
+    background-repeat: repeat;
+    /*background-position: 800px 500px ;*/
+    background-attachment:scroll;
+    background-size: cover;
+}
+

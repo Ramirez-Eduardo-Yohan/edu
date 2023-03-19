@@ -1,0 +1,12 @@
+body{
+    background-image:url(../imagenes/hojas.jpg);
+    /*background-position:400px 150px;*/
+    background-attachment:fixed;
+    background-size:80px 200px;
+}
+h1{
+    color:red;
+}
+p{
+    color: aqua;
+}
